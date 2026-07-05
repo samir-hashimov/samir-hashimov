@@ -55,7 +55,6 @@ Backend Developer olaraq, yüksək yüklənməyə davamlı (scalable), etibarlı
 
 ### 🤝 Əlaqə & Sosial Şəbəkələr
 
-Yeni layihələr, backend arxitekturaları və əməkdaşlıq təklifləri üçün məmluniyyətlə əlaqə saxlaya bilərsiniz!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samir-hashimov/" target="_blank">
